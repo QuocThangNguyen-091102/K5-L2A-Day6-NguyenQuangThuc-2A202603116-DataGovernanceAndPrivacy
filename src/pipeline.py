@@ -186,5 +186,6 @@ def run(ctx: RunContext) -> None:
     ctx.stats["n_items"] = len(scored)
     queue = rank(ctx, scored)
     final = review(ctx, scored, queue)
-    final[spec.pred_columns + [c for c in final.columns if c not in spec.pred_columns]].to_csv(ctx.out(spec.pred_file), index=False)
+    # Keep the submission artifact exactly to the track contract; diagnostics stay in the review queue.
+    final[spec.pred_columns].to_csv(ctx.out(spec.pred_file), index=False)
     write_decision(decide(ctx, final), ctx.out("decision.json"), ctx.out("decision_log.csv"))
