@@ -14,7 +14,6 @@ data/cache/
 **/make_hidden_eval.py
 **/hidden_eval/
 
-
 # Python
 .venv/
 venv/

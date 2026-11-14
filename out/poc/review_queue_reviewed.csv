@@ -1,21 +1,21 @@
 rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
-1,img_15_3,0.776545,"blur,dark",,,images/img_15_3.jpg,Thang-03158,reject,,Quá tối ,2026-11-14T09:02:58.322Z
-2,img_23_3,0.738564,"blur,dark",,,images/img_23_3.jpg,Thang-03158,reject,,Siêu tối ,2026-11-14T09:02:58.322Z
-3,img_17_3,0.736304,"blur,dark",,,images/img_17_3.jpg,Thang-03158,reject,,Cực tối ,2026-11-14T09:02:58.322Z
-4,img_12_3,0.699289,"blur,dark",,,images/img_12_3.jpg,Thang-03158,reject,,Chưa phân biệt được mặt đường,2026-11-14T09:02:58.322Z
-5,img_18_3,0.619741,blur,,,images/img_18_3.jpg,Thang-03158,reject,,Quá mờ. Không thể xác định được đường đi,2026-11-14T09:02:58.322Z
-6,img_13_3,0.606764,blur,,,images/img_13_3.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:02:58.322Z
-7,img_04_3,0.55,blur,,,images/img_04_3.jpg,Thang-03158,approve,,,2026-11-14T09:02:58.322Z
-8,img_07_3,0.55,blur,,,images/img_07_3.jpg,Thang-03158,approve,,,2026-11-14T09:02:58.322Z
-9,img_09_2,0.55,blur,,,images/img_09_2.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:02:58.322Z
-10,img_11_3,0.55,blur,,,images/img_11_3.jpg,Thang-03158,approve,,,2026-11-14T09:02:58.322Z
-11,img_15_2,0.55,blur,,,images/img_15_2.jpg,Thang-03158,reject,,Quá mờ ,2026-11-14T09:02:58.322Z
-12,img_16_2,0.55,blur,,,images/img_16_2.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:02:58.322Z
-13,img_19_3,0.55,blur,,,images/img_19_3.jpg,,,,Mờ ,
-14,img_21_2,0.55,blur,,,images/img_21_2.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:02:58.322Z
-15,img_14_2,0.549617,blur,,,images/img_14_2.jpg,,,,,
-16,img_00_3,0.549475,blur,,,images/img_00_3.jpg,,,,,
-17,img_08_3,0.522199,"blur,dark",,,images/img_08_3.jpg,Thang-03158,reject,,Quá tối ,2026-11-14T09:02:58.322Z
-18,img_01_2,0.509103,"blur,dark",,,images/img_01_2.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:02:58.322Z
-19,img_07_2,0.486047,"blur,dark",,,images/img_07_2.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:02:58.322Z
-20,img_02_3,0.444584,"blur,dark",,,images/img_02_3.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:02:58.322Z
+1,img_15_3,0.776545,"blur,dark",,,images/img_15_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+2,img_23_3,0.738564,"blur,dark",,,images/img_23_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+3,img_17_3,0.736304,"blur,dark",,,images/img_17_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+4,img_12_3,0.699289,"blur,dark",,,images/img_12_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+5,img_18_3,0.619741,blur,,,images/img_18_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+6,img_13_3,0.606764,blur,,,images/img_13_3.jpg,Thang-03158,reject,,Ảnh quá tối ,2026-11-14T09:31:21.815Z
+7,img_04_3,0.55,blur,,,images/img_04_3.jpg,Thang-03158,reject,,Ảnh quá mờ không thấy vật thể ,2026-11-14T09:31:21.815Z
+8,img_07_3,0.55,blur,,,images/img_07_3.jpg,Thang-03158,reject,,Ảnh quá mờ không thấy vật thể ,2026-11-14T09:31:21.815Z
+9,img_09_2,0.55,blur,,,images/img_09_2.jpg,Thang-03158,reject,,Ảnh quá mờ không thấy vật thể ,2026-11-14T09:31:21.815Z
+10,img_11_3,0.55,blur,,,images/img_11_3.jpg,Thang-03158,approve,,Thấy nhưng không rõ ràng ,2026-11-14T09:31:21.815Z
+11,img_15_2,0.55,blur,,,images/img_15_2.jpg,Thang-03158,reject,,Quá mờ ,2026-11-14T09:31:21.815Z
+12,img_16_2,0.55,blur,,,images/img_16_2.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:31:21.815Z
+13,img_19_3,0.55,blur,,,images/img_19_3.jpg,Thang-03158,reject,,Mờ ,2026-11-14T09:31:21.815Z
+14,img_21_2,0.55,blur,,,images/img_21_2.jpg,Thang-03158,reject,,Siêu mờ ,2026-11-14T09:31:21.815Z
+15,img_14_2,0.549617,blur,,,images/img_14_2.jpg,Thang-03158,approve,,Có thể thấy ,2026-11-14T09:31:21.815Z
+16,img_00_3,0.549475,blur,,,images/img_00_3.jpg,Thang-03158,approve,,Có thể thấy ,2026-11-14T09:31:21.815Z
+17,img_08_3,0.522199,"blur,dark",,,images/img_08_3.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:31:21.815Z
+18,img_01_2,0.509103,"blur,dark",,,images/img_01_2.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:31:21.815Z
+19,img_07_2,0.486047,"blur,dark",,,images/img_07_2.jpg,Thang-03158,reject,,Tối ,2026-11-14T09:31:21.815Z
+20,img_02_3,0.444584,"blur,dark",,,images/img_02_3.jpg,Thang-03158,reject,,Tối,2026-11-14T09:31:21.815Z
