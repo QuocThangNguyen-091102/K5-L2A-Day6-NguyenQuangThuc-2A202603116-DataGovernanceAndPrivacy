@@ -1,3 +1,4 @@
 ts,scope,status,canonical,reason_code,reason,owner,evidence
 2026-11-14T08:44:33+00:00,t02,HOLD,HOLD,QC_REVIEW_REQUIRED,Top-20 raw-QC candidates require human review (max score=0.777).,Nguyễn Quang Thức - Lead / Integrator,out\poc\review_queue.csv;out\poc\ranked_review.csv
 2026-11-14T09:04:42+00:00,t02,HOLD,HOLD,QC_REVIEW_REQUIRED,Top-20 raw-QC candidates require human review (max score=0.777).,Nguyễn Quang Thức - Lead / Integrator,out\poc\review_queue.csv;out\poc\ranked_review.csv
+2026-11-14T09:38:44+00:00,t02,HOLD,HOLD,QC_REVIEW_REQUIRED,Top-20 raw-QC candidates require human review (max score=0.777).,Nguyễn Quang Thức - Lead / Integrator,out\poc\review_queue.csv;out\poc\ranked_review.csv
