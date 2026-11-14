@@ -14,10 +14,6 @@ data/cache/
 **/make_hidden_eval.py
 **/hidden_eval/
 
-# Run outputs
-out/
-runs/
-*.log
 
 # Python
 .venv/

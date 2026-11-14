@@ -1,0 +1,18 @@
+{
+  "status": "HOLD",
+  "reason_code": "QC_REVIEW_REQUIRED",
+  "reason": "Top-20 raw-QC candidates require human review (max score=0.777).",
+  "owner": "Nguyễn Quang Thức - Lead / Integrator",
+  "scope": "t02",
+  "evidence": [
+    "out\\load_check\\review_queue.csv",
+    "out\\load_check\\ranked_review.csv"
+  ],
+  "metrics": {
+    "n_items": 96,
+    "review_budget": 20,
+    "max_score": 0.776545
+  },
+  "ts": "2026-11-14T08:53:47+00:00",
+  "canonical": "HOLD"
+}

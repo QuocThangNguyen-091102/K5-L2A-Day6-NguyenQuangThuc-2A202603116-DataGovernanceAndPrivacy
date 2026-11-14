@@ -1,0 +1,3 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T08:08:43+00:00,t02,HOLD,HOLD,BASELINE_ONLY,Random baseline: never release on this,Nguyễn Quang Thức - Lead / Integrator,out\baseline\ranked_review.csv
+2026-11-14T08:53:45+00:00,t02,HOLD,HOLD,BASELINE_ONLY,Random baseline: never release on this,Nguyễn Quang Thức - Lead / Integrator,out\baseline\ranked_review.csv
