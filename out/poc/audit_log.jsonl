@@ -1,0 +1,18 @@
+{"ts": "2026-11-14T08:37:05+00:00", "actor": "pipeline", "action": "provenance_problems", "item_id": "fixtures\\t02_raw_qc\\manifest.csv", "before": null, "after": [{"problem": "hash_mismatch", "path": "images.csv", "expected": "26a54d9de362b92139554efec64a2710586a8c2d58a23fd02f8c4ff4c93bd7c7", "actual": "4b2b5bb9e79fc2bdd034fcf0df9ff77a9b00922bb016bcfb624c3226ca888451"}], "reason": "", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_15_3", "before": null, "after": null, "reason": "Quá tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_23_3", "before": null, "after": null, "reason": "Siêu tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_17_3", "before": null, "after": null, "reason": "Cực tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_12_3", "before": null, "after": null, "reason": "Chưa phân biệt được mặt đường", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_18_3", "before": null, "after": null, "reason": "Quá mờ. Không thể xác định được đường đi", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_13_3", "before": null, "after": null, "reason": "Mờ ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:approve", "item_id": "img_04_3", "before": null, "after": null, "reason": "", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:approve", "item_id": "img_07_3", "before": null, "after": null, "reason": "", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_09_2", "before": null, "after": null, "reason": "Mờ ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:approve", "item_id": "img_11_3", "before": null, "after": null, "reason": "", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_15_2", "before": null, "after": null, "reason": "Quá mờ ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_16_2", "before": null, "after": null, "reason": "Mờ ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_21_2", "before": null, "after": null, "reason": "Mờ ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_08_3", "before": null, "after": null, "reason": "Quá tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_01_2", "before": null, "after": null, "reason": "Tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_07_2", "before": null, "after": null, "reason": "Tối ", "extra": {}}
+{"ts": "2026-11-14T09:04:42+00:00", "actor": "Thang-03158", "action": "review:reject", "item_id": "img_02_3", "before": null, "after": null, "reason": "Tối ", "extra": {}}
