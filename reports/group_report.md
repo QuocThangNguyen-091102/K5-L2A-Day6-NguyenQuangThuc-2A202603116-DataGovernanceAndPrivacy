@@ -72,7 +72,7 @@ Metric report chính thức: **pending instructor GT overlay**. Không tuyên b�
 
 `out/poc/contact_sheet.html` hiển thị top 20 ảnh, score và reason. Reviewer Nguyễn Quốc Thắng (`Thang-03158`) đã review đủ 20/20 ảnh: 17 reject và 3 approve. Kết quả được lưu ở `out/poc/review_queue_reviewed.csv`.
 
-Review decisions được đọc lại khi chạy pipeline; các thay đổi được append vào `out/poc/audit_log.jsonl`. Cơ chế override score hỗ trợ `edit`/`reject` khi reviewer nhập `override_value`; run cuối không dùng override vì reviewer không yêu cầu chỉnh score. Decision cuối là `HOLD` với reason code `QC_REVIEW_REQUIRED` và evidence là review queue/prediction.
+Review decisions được đọc lại khi chạy pipeline; các thay đổi được append vào `out/poc/audit_log.jsonl`. Pipeline có hỗ trợ override score khi reviewer cần chỉnh, nhưng reviewer không sửa score trong run cuối nên không phát sinh `override_value`; nhóm không tạo override giả và không đánh giá override riêng. Decision cuối là `HOLD` với reason code `QC_REVIEW_REQUIRED` và evidence là review queue/prediction.
 
 ## 07 · Reproduce & tests
 
